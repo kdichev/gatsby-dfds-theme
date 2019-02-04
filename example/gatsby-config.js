@@ -7,7 +7,7 @@ module.exports = {
   __experimentalThemes: [
     {
       resolve: require.resolve('../'),
-      options: { root: __dirname },
+      options: { root: __dirname, data: { apiUrl: 'asd' } },
     },
   ],
   plugins: [],
