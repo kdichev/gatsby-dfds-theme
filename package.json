@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-dfds-theme",
+  "version": "0.0.0-development",
+  "license": "MIT",
+  "keywords": [
+    "gatsby"
+  ],
+  "dependencies": {},
+  "scripts": {
+    "start": "cd example && yarn start",
+    "semantic-release": "semantic-release",
+    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+  },
+  "devDependencies": {
+    "semantic-release": "^15.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kdichev/gataby-dfds-theme.git"
+  }
+}
